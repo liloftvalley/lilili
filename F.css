@@ -100,8 +100,8 @@ section .cover {
 section .cover img #start{
   position: absolute;
   display: block;
-  min-width: 150%;
-  min-height: 150%;
+  min-width: 80%;
+  min-height: 80%;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -145,7 +145,7 @@ section .text {
 		}
 }
 img {
-  width: 30%;
+  width: 80%;
 }
   
 #title {
@@ -336,7 +336,7 @@ section .text {
 }
   
 img {
-  width: 30%;
+  width: 80%;
 }
   
 #title {
