@@ -101,7 +101,7 @@ section .cover img #start{
   position: absolute;
   display: block;
   width: 10px;
-  height: auto;
+  height: 10px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -290,7 +290,7 @@ section .cover img #start {
   position: absolute;
   display: block;
   width: 10px;
-  height: auto;
+  height: 10px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
