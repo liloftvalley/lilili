@@ -77,11 +77,11 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 8.3vw;
 }
-#one {background-color:#000000;}
-#two {background-color:#2F4F4F;}
-#three {background-color:#708090;}
-#four {background-color:#808080;}
-#five {background-color:#D3D3D3;}
+#one {background-color:#2F4F4F;}
+#two {background-color:#87CEEB;}
+#three {background-color:#7FFFD4;}
+#four {background-color:#778899;}
+#five {background-color:#66CDAA;}
 section {
   position: relative;
   display: block;
@@ -264,11 +264,11 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 80px;
 }
-#one {background-color:#000000;}
-#two {background-color:#2F4F4F;}
-#three {background-color:#708090;}
-#four {background-color:#808080;}
-#five {background-color:#D3D3D3;}
+#one {background-color:#2F4F4F;}
+#two {background-color:#87CEEB;}
+#three {background-color:#7FFFD4;}
+#four {background-color:#778899;}
+#five {background-color:#66CDAA;}
 section {
   position: relative;
   margin-left: -10px;
