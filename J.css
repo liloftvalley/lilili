@@ -422,7 +422,7 @@ width: 95%;
   color: #8B008B !important;
 
 }
-
+.bukovka {
  float: left;
  color: #4B0082;
  font-size: 84px;
@@ -431,4 +431,4 @@ width: 95%;
  padding-right: 8px;
  padding-left: 3px;
  font-family: 'Montserrat', sans-serif; 
- 
+ }
