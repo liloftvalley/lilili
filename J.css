@@ -9,13 +9,13 @@ html, body {
   margin: 0;
 
   }
-  .box {
+ .box {
 
   width: 100%;
 
   position: absolute;
 
-  margin-top: -200px;
+  margin-top: -400px;
 
   overflow: auto;
 
@@ -45,6 +45,8 @@ img {
 width: 95%;
 
   }
+  
+  
   #text {
 
   z-index: 0;
@@ -133,6 +135,9 @@ width: 95%;
   color: rgba(96, 125, 139,1.0);
 
 }
+
+
+
 #intro h3 {
 
   font-family: 'Montserrat', serif;
@@ -191,6 +196,7 @@ width: 95%;
   transition: .3s ease-in-out;
 
 }
+
 #button-overlay {
 
   height: 40px;
@@ -203,7 +209,7 @@ width: 95%;
 
   position: absolute;
 
-  background: #E6E6FA;
+  background: 02343D;
 
   transition: .3s ease-in-out;
 
@@ -243,6 +249,7 @@ width: 95%;
 
 }
 
+
 #menu-button-container {
 
   display: inline-block;
@@ -268,8 +275,7 @@ width: 95%;
 
   overflow: hidden;
 
-}
-#menu-button div {
+}#menu-button div {
 
   height: 3px;
 
@@ -284,7 +290,8 @@ width: 95%;
   transition: .4s ease-in-out;
 
 }
- #menu-button div:nth-child(1) {
+
+#menu-button div:nth-child(1) {
 
   top: 7px;
 
@@ -321,11 +328,13 @@ width: 95%;
   transform: rotate(-45deg);
 
 }
+
 #menu-button.change-color div {
 
   background: #8B008B;
 
 }
+
 #menu-button.hover-animation div:nth-child(1), #menu-button.hover-animation div:nth-child(4) {
 
   width: 80%;
@@ -336,8 +345,6 @@ width: 95%;
   background: #8B008B;
 
 }
-
-
 
 #menu-button.hover-color2 div {
 
@@ -363,6 +370,7 @@ width: 95%;
   z-index: 2000;
 
 }
+
 .reveal {
 
   height: 700px !important;
@@ -408,6 +416,7 @@ width: 95%;
   transition: .3s ease-in-out;
 
 }
+
 .hidden {
 
   opacity: 0;
@@ -422,6 +431,7 @@ width: 95%;
   color: #8B008B !important;
 
 }
+
 .bukovka {
  float: left;
  color: #4B0082;
